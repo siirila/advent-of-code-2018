@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "byline": "^5.0.0",
+    "linked-list": "^1.0.4",
+    "lodash": "^4.17.11",
+    "npm": "^6.4.1",
+    "pathfinding": "^0.4.18",
+    "singlie": "^1.0.1"
+  }
+}
